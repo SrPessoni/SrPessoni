@@ -65,10 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SrPessoni/SrPessoni/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="90" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
 </div>
