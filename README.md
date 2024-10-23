@@ -29,7 +29,7 @@
 <h2 align="left">Meu portifólio:</h2>
 
 <div align="left">
-  [https://srpessoni.github.io/Projetos/](https://srpessoni.github.io/Projetos/)
+  https://srpessoni.github.io/Projetos/
 </div>
 
 <h2 align="left">Tecnologias:</h2>
