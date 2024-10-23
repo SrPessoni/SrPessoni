@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com excelente desempenho acadêmico e grande disposição para o aprendizado. Com habilidades práticas e interpessoais sólidas, sou um profissional responsável, de aprendizado rápido e com facilidade para integrar em novas equipes. Tenho um alto nível social e ambiciono criar inovações tecnológicas, alcançar o nível profissional desejado e contribuir para o desenvolvimento tecnológico nacional. Atualmente, busco minha primeira oportunidade de emprego ou estágio, visando adquirir experiência na área e aplicar meus conhecimentos de forma prática.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, com grande disposição para o aprendizado. Possuo habilidades práticas e interpessoais sólidas, sendo profissional responsável e com facilidade para integrar em novas equipes. Possuo um alto nível social e ambiciono criar inovações tecnológicas, alcançar um nível profissional desejado e contribuir para o desenvolvimento tecnológico. Atualmente estou em busca de uma oportunidade de emprego ou estágio, visando adquirir experiência na área e aplicar meus conhecimentos de forma prática.</p>
 
 ###
 
